@@ -1,20 +1,36 @@
+.containerAll {
+    border-width: 10px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
 .containerRed {
     width: 200px;
     height: 100px;
     background-color: red;
+    border-style: solid;
+    border-color: green;
+    
   }
 .containerYellow {
     width: 200px;
     height: 100px;
     background-color: yellow;
     position: relative;
-    top: -115px; left: 250px;
+    top: -160px; left: 250px;
+    border-style: solid;
+    border-color: red;
 }
 .containerGreen {
     width: 200px;
     height: 100px;
     background-color: green;
     position: relative;
-    top: -230px; left: 500px;
+    top: -320px; left: 500px;
+    border-style: solid;
+    border-color: yellow;
 }
-  
+p {text-transform: uppercase;
+   color: blue;
+   text-align: center;
+   
+}
