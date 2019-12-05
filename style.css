@@ -1,5 +1,14 @@
-h1 {color: blue;}
-h2 {color: red;}
-h3 {color: red;}
-p {color:red;}
-.lista {color:purple;}
+body {
+    margin: 0 auto;
+    max-width: 40em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em, 1em;
+    color: #555;
+}
+h2 {
+    color: #333;
+}
+h1 {
+    color:#333;
+}
